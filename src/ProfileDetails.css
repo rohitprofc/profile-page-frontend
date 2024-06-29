@@ -1,0 +1,11 @@
+.profile-details {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .profile-details h2 {
+    margin: 10px 0;
+  }
+  .profile-details p {
+    margin: 5px 0;
+}
+  
